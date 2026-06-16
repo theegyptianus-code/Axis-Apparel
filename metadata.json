@@ -1,0 +1,6 @@
+{
+  "name": "AXIS Premium Apparel",
+  "description": "A high-end, conversion-focused e-commerce storefront for AXIS, featuring sleek layouts, sticky checkouts, visual search simulation, and a premium streetwear aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
